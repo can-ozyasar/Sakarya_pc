@@ -2,11 +2,30 @@
 
 Sakarya Üniversitesi eğitim sürecinde kullanılan ders notları, ödevler ve yardımcı materyaller arşivi.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Üniversite dönemlerindeki ders notları, ödevler ve yardımcı kaynakları kaybetmeden düzenli bir arşivde tutmak için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - Dönem ve ders bazlı klasör düzeni
 - PDF, görsel, doküman ve proje dosyaları
 - Üniversite çalışmaları için merkezi kaynak
-- Kullanılan ana teknolojiler: Jupyter Notebook, .NET, C#, HTML, CSS, C++
+- Jupyter Notebook dosyalarıyla adım adım deney/analiz akışı
+- .NET solution/proje dosyaları ve katmanlı uygulama yapısı
+- Tarayıcıda incelenebilen HTML arayüz dosyaları
+
+## Kimler İçin Faydalı?
+Aynı konuları çalışan öğrenciler, ders notlarını tekrar etmek isteyenler ve örnek proje yapısı arayanlar için faydalıdır.
+
+## Kullanılan Teknolojiler
+- Jupyter Notebook
+- .NET
+- C#
+- HTML
+- CSS
+- C++
 
 ## Kurulum
 ```bash
@@ -34,10 +53,9 @@ dotnet build "1. YarıYıl/1.Dönem Ödevler/PG Ödev/PG 1. ödev illerden bulma
 - `6. YarıYıl` - 655 dosya
 - `5. YarıYıl` - 405 dosya
 - `4. YarıYıl` - 368 dosya
-- `3. YarıYıl` - 365 dosya
+- `3. YarıYıl` - 364 dosya
 - `2.YarıYıl` - 193 dosya
 - `1. YarıYıl` - 86 dosya
-- `README.md` - 1 dosya
 
 ## Geliştirme Notları
 - README içeriği, repodaki mevcut dosya yapısı ve proje açıklamasına göre düzenlenmiştir.
