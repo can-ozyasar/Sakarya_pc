@@ -19,7 +19,7 @@ Bu repoda öne çıkan içerikler şunlardır:
 ## Kimler İçin Faydalı?
 Aynı konuları çalışan öğrenciler, ders notlarını tekrar etmek isteyenler ve örnek proje yapısı arayanlar için faydalıdır.
 
-## Kullanılan Teknolojiler
+## İçerikte Geçen Teknoloji ve Dosya Türleri
 - Jupyter Notebook
 - .NET
 - C#
@@ -27,27 +27,13 @@ Aynı konuları çalışan öğrenciler, ders notlarını tekrar etmek isteyenle
 - CSS
 - C++
 
-## Kurulum
-```bash
-dotnet restore "1. YarıYıl/1.Dönem Ödevler/PG Ödev/PG 1. ödev illerden bulmaca/G201210012 Yahya Haliloğlu/G201210012 Yahya Haliloğlu.sln"
-```
-
-## Çalıştırma
-```bash
-jupyter notebook
-dotnet build "1. YarıYıl/1.Dönem Ödevler/PG Ödev/PG 1. ödev illerden bulmaca/G201210012 Yahya Haliloğlu/G201210012 Yahya Haliloğlu.sln"
-```
+## Arşiv Nasıl İncelenir?
+- Klasörler dönem, ders ve çalışma türüne göre ayrılmıştır.
+- Ders notları, ödevler, PDF'ler, görseller ve proje dosyaları ilgili dönem klasörleri altında bulunur.
+- Belirli bir ders veya dönem aranıyorsa önce dönem klasöründen, sonra ders adından ilerlemek en pratik yöntemdir.
 
 ## Notebook İçeriği
 - `6. YarıYıl/Yapay Zeka/2024 Ödev/epochs/300epochs/DCGAN_2A_Grup10.ipynb`
-
-## Önemli Dosyalar
-- `1. YarıYıl/1.Dönem Ödevler/PG Ödev/PG 1. ödev illerden bulmaca/G201210012 Yahya Haliloğlu/G201210012 Yahya Haliloğlu.sln`
-- `1. YarıYıl/1.Dönem Ödevler/PG Ödev/PG 2. ödev dikdörtgen içinde sayı/G201210012 Yahya Haliloğlu.sln`
-- `2.YarıYıl/Web Masaüstü/Site/index.html`
-- `3. YarıYıl/VeriYapıları/Sorular/VeriYapilari_2017-18Guz_1.Vize_Program/1. Soru/03.3 SinglyLinkedList 2013.sln`
-- `3. YarıYıl/VeriYapıları/Sorular/VeriYapilari_2017-18Guz_1.Vize_Program/3. Soru/03.6 Recursion 2013.sln`
-- `3. YarıYıl/VeriYapıları/Sorular/VeriYapilari_2017-18Guz_1.Vize_Program/4. Soru/03.4 DoublyLinkedList 2013.sln`
 
 ## Proje Yapısı
 - `6. YarıYıl` - 655 dosya
